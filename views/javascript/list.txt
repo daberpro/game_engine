@@ -1,0 +1,11 @@
+1. menentukan element utama yang akan menjadi main process
+2. memuat property
+3. menambahakan method
+4. memanipulasi dengan native property
+5. mengembalikan element yang telah di manipulasi
+
+
+1.settings:
+  1.config
+  2.theme
+  3.window settings

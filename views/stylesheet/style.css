@@ -1,0 +1,39 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  font-family: sans-serif;
+  font-weight: 500;
+}
+
+.tools{
+  background: rgba(50,50,50,1.0);
+  box-shadow: 0px 0px 5px rgba(0,0,0,0.75);
+  position: fixed;
+  top:0;
+}
+
+.leftPanel{
+  background: rgba(55,55,55,1.0);
+  box-shadow: 0px 0px 5px rgba(0,0,0,0.75);
+  position: fixed;
+  left:0;
+}
+
+.rightPanel{
+  background: rgba(55,55,55,1.0);
+  box-shadow: 0px 0px 5px rgba(0,0,0,0.75);
+  position: fixed;
+  right:0;
+}
+
+.bottomPanel{
+  background: rgba(50,50,50,1.0);
+  box-shadow: 0px 0px 5px rgba(0,0,0,0.75);
+  position: fixed;
+  bottom:0;
+}
+
+.objectRender{
+  background-color: gray;
+  position: fixed;
+}
