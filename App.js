@@ -22,8 +22,8 @@ const main=()=>{
       window.show()
   })
 
-  const menu = Menu.buildFromTemplate(data.menu);
-  Menu.setApplicationMenu(menu);
+  // const menu = Menu.buildFromTemplate(data.menu);
+  // Menu.setApplicationMenu(menu);
 }
 
 app.on("ready",main);

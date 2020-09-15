@@ -4,7 +4,8 @@ exports.windowSettings={
   },
   width: 1200,
   height: 700,
-  show: false
+  show: false,
+  frame: false
 };
 
 exports.menu=[
@@ -54,7 +55,7 @@ exports.menu=[
 
 exports.panel = {
   leftPanel:{
-    width: 200,
+    width: 150,
     height: exports.windowSettings.height
   },
   tools:{
@@ -62,12 +63,12 @@ exports.panel = {
     height: 25
   },
   rightPanel:{
-    width: 200,
+    width: 150,
     height: exports.windowSettings.height
   },
   bottomPanel:{
     width: exports.windowSettings.width,
-    height: 150
+    height: 130
   }
 };
 
